@@ -9,7 +9,6 @@ Test the model on test_x:
 250 unlabeled sequences, each 2000 characters long.
 
 Points awarded on accuracy of test_x:
-accuracy points
 ≥ 95% = 10,
 ≥ 90% = 7,
 ≥ 85% = 5
