@@ -1,5 +1,5 @@
 # Recurrent-NN
-Class assignment problem
+Class assignment problem:
 
 Input data: 
 train_x and train_y: 400 labelled (0,1,2,3,4) sequences, each of length 400 characters.
